@@ -6,7 +6,7 @@
 🎓 **Bachelor’s Degree in Computer Science** – Western Governors University
 
 🛠 **Currently working on:**  
-Building applications with **Spring Boot**, **Thymeleaf**, **MySQL**, and exploring **Docker** & **RESTful services**
+Building applications with **Spring Boot**, **MySQL**, and exploring **Docker** & **RESTful services**
 
 ## 🛠 Skills
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
