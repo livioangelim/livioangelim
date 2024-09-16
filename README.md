@@ -1,7 +1,7 @@
 
 # Livio Angelim Mororo
 
-👋 Hi, I'm Livio! A **versatile software developer** based in Montreal, QC, with a strong foundation in computer science and hands-on experience in **C++, Python, JavaScript, Java, Spring Boot**, and **MySQL**. I am passionate about building innovative software solutions and optimizing system performance.
+👋 Hi, I'm Livio! A **versatile software developer** based in Montreal, QC, with a strong foundation in computer science and hands-on experience in **C++, Python, JavaScript, Java**, and **MySQL**. I am passionate about building innovative software solutions and optimizing system performance.
 
 🎓 **Bachelor’s Degree in Computer Science** – Western Governors University
 
