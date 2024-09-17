@@ -25,6 +25,12 @@ Building applications with **Spring Boot**, **MySQL**, and exploring **Docker** 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+## 📊 GitHub Stats
+![Livio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=livioangelim&count_private=true&show_icons=true&theme=radical)
+
+## 🏆 Project Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livioangelim&layout=compact&theme=radical)
+
 ## 💬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/livioangelim)
