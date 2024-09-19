@@ -13,22 +13,8 @@
     </tr>
 </div>
 
-### 🛠 Skills
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+### 🛠 Skills & Contributions
+![My Skills](https://skillicons.dev/icons?i=py,java,cpp,js,jquery,angular,ts,react,nodejs,html,css,spring,maven,gradle,hibernate,mysql,linux,windows,github,gitlab,postman,docker,kubernetes,aws,azure,jenkins,ansible,terraform,bash,powershell,pandas,numpy)
 
 <table>
   <tr>
@@ -45,7 +31,7 @@
 🌱 Building robust applications using **Spring Boot**, **MySQL**, and exploring **Docker** & **RESTful services** to optimize backend performance.
 
 ## 📂 Projects
-<a href="https://github.com/livioangelim/texas-holdem-poker">
+<a href="https://github.com/livioangelim/texas-hold-em-poker-game">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=livioangelim&repo=texas-hold-em-poker-game&bg_color=0f4c81&title_color=02c39a&text_color=ffffff&icon_color=02c39a&hide_border=true" />
 </a>
 <a href="https://github.com/livioangelim/online-learning-platform">
