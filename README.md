@@ -40,8 +40,8 @@
   </tr>
 </table>
 
-## 🚧 Currently Working On
-🌱 Building robust applications using **Spring Boot**, **MySQL**, and exploring **Docker** & **RESTful services** to optimize backend performance.
+## 🌱 Currently Working On
+Building robust applications using **Spring Boot**, **MySQL**, and exploring **Docker** & **RESTful services** to optimize backend performance.
 
 ## 📂 Projects
 <a href="https://github.com/livioangelim/texas-hold-em-poker-game">
