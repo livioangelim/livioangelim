@@ -2,7 +2,7 @@
     <tr>
       <td>
         <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=02c39a&center=true&vCenter=true&width=435&lines=Livio+Angelim+Mororo;Software+Engineer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=02c39a&center=true&vCenter=true&width=435&lines=Livio+Mororo;Software+Engineer" alt="Typing SVG" />
         </p>
         <p>Hi, I'm Livio! A <strong>software engineer</strong> with a <strong>Bachelor in Computer Science</strong> and over <strong>4 years of experience</strong>. I have hands-on experience in <strong>Java</strong>, <strong>Python</strong>, <strong>C++</strong>, and <strong>JavaScript</strong>. I specialize in <strong>full-stack web development</strong>, with a strong focus on <strong>back-end technologies</strong> like <strong>Spring Boot</strong>. Additionally, I am experienced in <strong>front-end development</strong> using <strong>Angular</strong> and <strong>React</strong>, alongside proficiency in <strong>database management</strong> with <strong>MySQL</strong> and <strong>SQL Server</strong>. My expertise extends to <strong>cloud services</strong> such as <strong>Docker</strong> and <strong>AWS</strong>, and <strong>software quality assurance</strong>. I am passionate about collaborating with dynamic teams to deliver innovative solutions and optimize system performance in fast-paced environments.</p> 
         <p><strong>Let's connect and build innovative projects together!</strong></p>
