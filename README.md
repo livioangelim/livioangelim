@@ -39,13 +39,16 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livioangelim&layout=compact&theme=highcontrast&bg_color=0f4c81&title_color=02c39a&text_color=ffffff" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livioangelim&layout=compact&theme=highcontrast&bg_color=0f4c81&title_color=02c39a&text_color=ffffff" 
+           alt="Top Languages" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=livioangelim&theme=highcontrast&background=0f4c81&ring=02c39a&fire=02c39a&currStreakLabel=02c39a" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=livioangelim&theme=highcontrast&background=0f4c81&ring=02c39a&fire=02c39a&currStreakLabel=02c39a" 
+           alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
 
 ## 🌱 Currently Working On
 Building robust applications using **Spring Boot**, **MySQL**, and exploring **Docker** & **RESTful services** to optimize backend performance.
