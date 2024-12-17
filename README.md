@@ -43,7 +43,7 @@
            alt="Top Languages" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=livioangelim&theme=highcontrast&background=0f4c81&ring=02c39a&fire=02c39a&currStreakLabel=02c39a" 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=livioangelim&theme=highcontrast&background=0f4c81&ring=02c39a&fire=02c39a&currStreakLabel=02c39a" 
            alt="GitHub Streak" />
     </td>
   </tr>
