@@ -2,10 +2,15 @@
     <tr>
       <td>
         <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=02c39a&center=true&vCenter=true&width=435&lines=Livio+Mororo;Software+Engineer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=02c39a&center=true&vCenter=true&width=435&lines=Livio+Mororo;Software+Engineer;Java+%26+Python+Specialist;Data-Driven+Solutions" alt="Typing SVG" />
         </p>
-        <p>Hi, I'm Livio! A <strong>software engineer</strong> with a <strong>Bachelor in Computer Science</strong>. I have hands-on experience in <strong>Java</strong>, <strong>Python</strong>, <strong>C++</strong>, and <strong>JavaScript</strong>. I specialize in <strong>full-stack web development</strong>, with a strong focus on <strong>back-end technologies</strong> like <strong>Spring Boot</strong>. Additionally, I am experienced in <strong>front-end development</strong> using <strong>Angular</strong> and <strong>React</strong>, alongside proficiency in <strong>database management</strong> with <strong>MySQL</strong> and <strong>SQL Server</strong>. My expertise extends to <strong>cloud services</strong> such as <strong>Docker</strong> and <strong>AWS</strong>, and <strong>software quality assurance</strong>. I am passionate about collaborating with dynamic teams to deliver innovative solutions and optimize system performance in fast-paced environments.</p> 
-        <p><strong>Let's connect and build innovative projects together!</strong></p>
+        <p>Hi, I'm Livio! A <strong>Software Engineer</strong> with a <strong>BSc in Computer Science</strong> and hands-on experience in building scalable systems. I specialize in:</p>
+        <ul>
+          <li>🚀 <strong>Java/Spring Boot</strong> backend systems with RESTful APIs</li>
+          <li>📊 <strong>Python/ML</strong> for data analysis and automation</li>
+          <li>⚡ <strong>Cloud-native apps</strong> using Docker, AWS, and CI/CD pipelines</li>
+        </ul>
+        <p><strong>Let’s connect and build solutions that matter!</strong></p>
         <a href="https://livioangelim.github.io/livio-portfolio/">
             <img src="https://img.shields.io/badge/View%20My%20Portfolio-02c39a?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
         </a>
@@ -17,12 +22,10 @@
     </tr>
 </div>
 
-## 🌱 Currently Working On
-Building robust applications using **Spring Boot**, **MySQL**, and exploring **Docker** & **RESTful services** to optimize backend performance.
-
+## 🌱 **Currently Working On**  
+Building **data-intensive applications** with Python/Flask and integrating **real-time analytics** into Spring Boot microservices.  
  
-### 🛠 Skills
-
+### 🛠 **Technical Toolkit**  
 <table>
   <tr>
     <!-- GitHub Stats -->
