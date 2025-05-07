@@ -15,11 +15,11 @@
         <p>Armed with dual bachelor's degrees in <strong>Computer Science</strong> and <strong>Social Communication - Journalism</strong>, alongside fluency in four languages (English, Portuguese, Spanish, French), I bridge technical precision with human-centric design.</p>
         <p>Highlights include engineering an <strong>ML loan-approval model (88% accuracy)</strong> and building ethical AI tools like <strong>Jornal.IA</strong>.</p>
         <p><strong>Let’s connect and build solutions that matter!</strong></p>
-        <a href="https://livioangelim.github.io/livio-portfolio/">
+        <a href="https://livioam.github.io/livio-portfolio/">
           <img src="https://img.shields.io/badge/View%20My%20Portfolio-02c39a?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
         </a>
         <br><br>
-        <a href="https://linkedin.com/in/livioangelim">
+        <a href="https://linkedin.com/in/livioam">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
       </td>
@@ -53,15 +53,15 @@
 </table>
 
 ## 📂 Projects
-<a href="https://github.com/livioangelim/loan-eligibility-checker">
+<a href="https://github.com/livioam/loan-eligibility-checker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=livioangelim&repo=loan-eligibility-checker&bg_color=0f4c81&title_color=02c39a&text_color=ffffff&icon_color=02c39a&hide_border=true" />
 </a>
-<a href="https://github.com/livioangelim/parcel-service-routing-program">
+<a href="https://github.com/livioam/parcel-service-routing-program">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=livioangelim&repo=parcel-service-routing-program&bg_color=0f4c81&title_color=02c39a&text_color=ffffff&icon_color=02c39a&hide_border=true" />
 </a>
-<a href="https://github.com/livioangelim/eduflow-system">
+<a href="https://github.com/livioam/eduflow-system">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=livioangelim&repo=eduflow-system&bg_color=0f4c81&title_color=02c39a&text_color=ffffff&icon_color=02c39a&hide_border=true" />
 </a>
-<a href="https://github.com/livioangelim/global-application-suite">
+<a href="https://github.com/livioam/global-application-suite">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=livioangelim&repo=global-application-suite&bg_color=0f4c81&title_color=02c39a&text_color=ffffff&icon_color=02c39a&hide_border=true" />
 </a>
